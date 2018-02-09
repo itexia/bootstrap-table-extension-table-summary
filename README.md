@@ -1,0 +1,1 @@
+# bootstrap-table-extension-table-summary
